@@ -5,6 +5,10 @@ Analyze the customer satisfaction from the perspective of delay in delivery. If 
 # Dataset
 <a href="https://s3.ap-south-1.amazonaws.com/new-assets.ccbp.in/frontend/content/data-analytics/Datasets_DA_Track/Capstone-4_Dataset.zip"> Dataset</a>
 
+## project report pdf URL:
+<a href="file:///C:/Users/srini/AppData/Local/Temp/Power%20BI%20Desktop/print-job-55c0d0fb-c9ad-49c9-9a09-b800b70570f8/Brazilian%20E-Commerce.pdf"> file:///C:/Users/srini/AppData/Local/Temp/Power%20BI%20Desktop/print-job-55c0d0fb-c9ad-49c9-9a09-b800b70570f8/Brazilian%20E-Commerce.pdf </a>
+
+
 # Questions related to report:
 
 # Business perspective - Questions:
